@@ -8,16 +8,14 @@ Professional experience with the technologies listed in the <b>toolbox</b> below
 
 🧰 Toolbox
 <br><br>
-<img src = 'https://cdn.worldvectorlogo.com/logos/python-5.svg' alt = 'python' height = '60' width = '60'/>
-<img src = 'https://cdn.worldvectorlogo.com/logos/django-community.svg' alt = 'django' height = '60' width = '60'/>
-<img src = 'https://cdn.worldvectorlogo.com/logos/react-2.svg' alt = 'reactjs' height = '60' width = '60'/>
-<img src = 'https://cdn.worldvectorlogo.com/logos/firebase-1.svg' alt = 'firebase' height = '60' width = '60'/>
-<img src = 'https://cdn.worldvectorlogo.com/logos/html5.svg' alt = 'html' height = '60' width = '60'/>
-<img src = 'https://cdn.worldvectorlogo.com/logos/css-5.svg' alt = 'css' height = '60' width = '60'/>
-<img src = 'https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' alt = 'javascript' height = '60' width = '60'/>
-<img src = 'https://cdn.worldvectorlogo.com/logos/linux-tux.svg' alt = 'Linux' height = '60' width = '60'/>
-<img src = 'https://cdn.worldvectorlogo.com/logos/material-ui-1.svg' alt = 'material-ui' height = '60' width = '60'/>
-<img src = 'https://cdn.worldvectorlogo.com/logos/npm.svg' alt = 'npm' height = '60' width = '60'/>
-<img src = '' alt = ''/>
-<img src = '' alt = ''/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/python-5.svg' alt = 'python' height = '80' width = '80'/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/django-community.svg' alt = 'django' height = '80' width = '80'/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/react-2.svg' alt = 'reactjs' height = '80' width = '80'/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/firebase-1.svg' alt = 'firebase' height = '80' width = '80'/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/html5.svg' alt = 'html' height = '80' width = '80'/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/css-5.svg' alt = 'css' height = '80' width = '80'/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' alt = 'javascript' height = '80' width = '80'/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/linux-tux.svg' alt = 'Linux' height = '80' width = '80'/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/material-ui-1.svg' alt = 'material-ui' height = '80' width = '80'/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/npm.svg' alt = 'npm' height = '80' width = '80'/>
 ---
