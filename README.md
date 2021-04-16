@@ -4,10 +4,11 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/sanketpuhan?style=social)
 
-
+<br>
 
 A software Engineer working on ML and Ai , along with web-dev specializing in both frontend and backend.
 Professional experience with the technologies listed in the <b>toolbox</b> below 
+
 <br><br>
 
 ---
