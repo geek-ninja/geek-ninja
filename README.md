@@ -16,8 +16,8 @@ Professional experience with the technologies listed in the <b>toolbox</b> below
 <img src = 'https://cdn.worldvectorlogo.com/logos/css-5.svg' alt = 'css' height = '60' width = '60'/>
 <img src = 'https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' alt = 'javascript' height = '60' width = '60'/>
 <img src = 'https://cdn.worldvectorlogo.com/logos/linux-tux.svg' alt = 'Linux' height = '60' width = '60'/>
-<img src = '' alt = ''/>
-<img src = '' alt = ''/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/material-ui-1.svg' alt = 'material-ui' height = '60' width = '60'/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/npm.svg' alt = 'npm' height = '60' width = '60'/>
 <img src = '' alt = ''/>
 <img src = '' alt = ''/>
 ---
