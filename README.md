@@ -30,6 +30,6 @@ Professional experience with the technologies listed in the <b>toolbox</b> below
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geek-ninja&hide=html,css,java,jupyter+notebook)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
-![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=geek-ninja&show_icons=true&theme=radical)
+![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=geek-ninja&show_icons=true&theme=radical&show_icons=false)
 
 ---
