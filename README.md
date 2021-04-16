@@ -7,14 +7,15 @@ Professional experience with the technologies listed in the <b>toolbox</b> below
 ---
 
 🧰 Toolbox
-<img src = 'https://cdn.worldvectorlogo.com/logos/python-5.svg' alt = 'python' height = '50' width = '50'/>
-<img src = 'https://cdn.worldvectorlogo.com/logos/django-community.svg' alt = 'django' height = '50' width = '50'/>
-<img src = 'https://cdn.worldvectorlogo.com/logos/react-2.svg' alt = 'reactjs' height = '50' width = '50'/>
-<img src = 'https://cdn.worldvectorlogo.com/logos/firebase-1.svg' alt = 'firebase' height = '50' width = '50'/>
-<img src = 'https://cdn.worldvectorlogo.com/logos/html5.svg' alt = 'html' height = '50' width = '50'/>
-<img src = 'https://cdn.worldvectorlogo.com/logos/css-5.svg' alt = 'css' height = '50' width = '50'/>
-<img src = 'https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' alt = 'javascript' height = '50' width = '50'/>
-<img src = 'https://cdn.worldvectorlogo.com/logos/linux-tux.svg' alt = 'Linux' height = '50' width = '50'/>
+<br><br>
+<img src = 'https://cdn.worldvectorlogo.com/logos/python-5.svg' alt = 'python' height = '60' width = '60'/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/django-community.svg' alt = 'django' height = '60' width = '60'/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/react-2.svg' alt = 'reactjs' height = '60' width = '60'/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/firebase-1.svg' alt = 'firebase' height = '60' width = '60'/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/html5.svg' alt = 'html' height = '60' width = '60'/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/css-5.svg' alt = 'css' height = '60' width = '60'/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' alt = 'javascript' height = '60' width = '60'/>
+<img src = 'https://cdn.worldvectorlogo.com/logos/linux-tux.svg' alt = 'Linux' height = '60' width = '60'/>
 <img src = '' alt = ''/>
 <img src = '' alt = ''/>
 <img src = '' alt = ''/>
