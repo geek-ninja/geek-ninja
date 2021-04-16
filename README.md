@@ -20,7 +20,17 @@ Professional experience with the technologies listed in the <b>toolbox</b> below
   <img src = 'https://cdn.worldvectorlogo.com/logos/material-ui-1.svg' alt = 'material-ui' height = '80' width = '80'/>
   <img src = 'https://cdn.worldvectorlogo.com/logos/npm.svg' alt = 'npm' height = '80' width = '80'/>
 </div>
+
 ---
+
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geek-ninja&hide=java,html,css,jupyter+notebook)](https://github.com/geek-ninja/github-readme-stats)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geek-ninja&hide=java,html,css,jupyter+notebook)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=geek-ninja)](https://github.com/anuraghazra/github-readme-stats)
+
+---
