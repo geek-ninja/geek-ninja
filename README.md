@@ -1,8 +1,3 @@
-<style>
-  .logo{
-    display:flex;
-  }
-</style>
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am geek-ninja!
 ![GitHub followers](https://img.shields.io/github/followers/geek-ninja?style=social)
 <br><br>
@@ -26,3 +21,6 @@ Professional experience with the technologies listed in the <b>toolbox</b> below
   <img src = 'https://cdn.worldvectorlogo.com/logos/npm.svg' alt = 'npm' height = '80' width = '80'/>
 </div>
 ---
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geek-ninja&hide=java,html,css,jupyter+notebook)](https://github.com/anuraghazra/github-readme-stats)
