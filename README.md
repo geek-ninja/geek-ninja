@@ -27,10 +27,9 @@ Professional experience with the technologies listed in the <b>toolbox</b> below
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geek-ninja&hide=css,java,jupyter+notebook?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geek-ninja&hide=css,java,jupyter+notebook)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=geek-ninja)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geek-ninja&show_icons=true&theme=radical)
 
 ---
