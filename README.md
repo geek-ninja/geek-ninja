@@ -6,7 +6,7 @@
 
 <br>
 
-A software Engineer working on ML and Ai , along with web-dev specializing in both frontend and backend.
+<h1>A software Engineer working on ML and Ai , along with web-dev specializing in both frontend and backend.</h1>
 Professional experience with the technologies listed in the <b>toolbox</b> below 
 <br>
 
@@ -25,6 +25,7 @@ Professional experience with the technologies listed in the <b>toolbox</b> below
   <img src = 'https://cdn.worldvectorlogo.com/logos/linux-tux.svg' alt = 'Linux' height = '80' width = '80'/>
   <img src = 'https://cdn.worldvectorlogo.com/logos/material-ui-1.svg' alt = 'material-ui' height = '80' width = '80'/>
   <img src = 'https://cdn.worldvectorlogo.com/logos/npm.svg' alt = 'npm' height = '80' width = '80'/>
+  <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" alt = 'vscode' height = '80' width="80">
 </div>
 
 ---
