@@ -7,9 +7,8 @@
 <br>
 
 <h1>A software Engineer working on ML and Ai , along with web-dev specializing in both frontend and backend.</h1>
-<h2>Professional experience with the technologies listed in the</h2> <b>toolbox</b> below 
+<h2>Professional experience with the technologies listed in the Tool Box below</h2>
 <br>
-
 ---
 
 <h2>🧰 Toolbox</h2>
