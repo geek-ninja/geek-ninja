@@ -38,4 +38,12 @@ Professional experience with the technologies listed in the <b>toolbox</b> below
 
 ![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=geek-ninja&count_private=true&theme=radical)
 
+
+</p>
+<p align="left">
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geek-ninja&theme=synthwave">
+<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=geek-ninja&theme=synthwave">
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=geek-ninja&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+
 ---
