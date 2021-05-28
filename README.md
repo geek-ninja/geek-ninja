@@ -32,21 +32,26 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
     <td align='center' width="190">
         <img src="https://user-images.githubusercontent.com/68724228/119315331-5cea3780-bc93-11eb-9bbf-bc2c9f083e00.png" width="60">
     </td>
      <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60">
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80">
     </td>
     <td align='center' width="190">
         <img src = 'https://cdn.worldvectorlogo.com/logos/django-community.svg' alt = 'django' height = '80' width = '80'/>
     </td>
+     <td align='center' width="190">
+        <img src = '    <td align='center' width="190">
+        <img src = 'https://cdn.worldvectorlogo.com/logos/django-community.svg' alt = 'django' height = '80' width = '80'/>
+    </td>' alt = 'scikit-learn' height = '80' width = '80'/>
+    </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="80">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
