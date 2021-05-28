@@ -12,23 +12,12 @@
 
 ---
 
-🧰 Toolbox
+<h2>🧰 Toolbox</h2>
 <br><br>
- <div class = 'logo'>
-  <img src = 'https://cdn.worldvectorlogo.com/logos/python-5.svg' alt = 'python' height = '80' width = '80'/>
-  <img src = 'https://cdn.worldvectorlogo.com/logos/django-community.svg' alt = 'django' height = '80' width = '80'/>
-  <img src = 'https://cdn.worldvectorlogo.com/logos/react-2.svg' alt = 'reactjs' height = '80' width = '80'/>
-  <img src = 'https://cdn.worldvectorlogo.com/logos/firebase-1.svg' alt = 'firebase' height = '80' width = '80'/>
-  <img src = 'https://cdn.worldvectorlogo.com/logos/html5.svg' alt = 'html' height = '80' width = '80'/>
-  <img src = 'https://cdn.worldvectorlogo.com/logos/css-5.svg' alt = 'css' height = '80' width = '80'/>
-  <img src = 'https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' alt = 'javascript' height = '80' width = '80'/>
-  <img src = 'https://cdn.worldvectorlogo.com/logos/linux-tux.svg' alt = 'Linux' height = '80' width = '80'/>
-  <img src = 'https://cdn.worldvectorlogo.com/logos/material-ui-1.svg' alt = 'material-ui' height = '80' width = '80'/>
-  <img src = 'https://cdn.worldvectorlogo.com/logos/npm.svg' alt = 'npm' height = '80' width = '80'/>
-  <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" alt = 'vscode' height = '80' width="80">
-</div>
+
 - 👨‍ Check me out **https://my-portfolio-583ea.web.app/**
 <h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
+
 <table width="100">
 <tr>
     <td align='center' width="190">
@@ -37,14 +26,14 @@
     <td align='center' width="190">
         <img src="https://user-images.githubusercontent.com/68724228/119315331-5cea3780-bc93-11eb-9bbf-bc2c9f083e00.png" width="60">
     </td>
-     <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80">
+    <td align='center' width="190">
+        <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png' alt = 'scikit-learn' height = '80' width = '80'/>
     </td>
     <td align='center' width="190">
         <img src = 'https://cdn.worldvectorlogo.com/logos/django-community.svg' alt = 'django' height = '80' width = '80'/>
     </td>
-    <td align='center' width="190">
-        <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png' alt = 'scikit-learn' height = '80' width = '80'/>
+      <td align='center' width="190">
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80">
     </td>
 </tr>
 <tr>
