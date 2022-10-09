@@ -37,7 +37,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="80">
+        <img src="https://www.zend.com/sites/default/files/image/2019-09/logo-mongodb.jpg" width="80">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
@@ -54,7 +54,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="60">
     </td>
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
